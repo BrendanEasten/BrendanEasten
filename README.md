@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development and UX Designing. 
 - 🌱 I’m currently learning Computer Programming @ Seneca
 - 💞️ I’m looking to collaborate on group projects
-- 📫 How to reach me ... Discord: Brendan Easten#0030
+- 📫 How to reach me ... Discord: BrendanEasten
 
 <!---
 BrendanEasten/BrendanEasten is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
