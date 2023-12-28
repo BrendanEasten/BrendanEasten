@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrendanEasten
 - 👀 I’m interested in Software Development and UX Designing. 
-- 🌱 I’m currently learning Computer Programming @ Humber College 
+- 🌱 I’m currently learning Computer Programming @ Seneca
 - 💞️ I’m looking to collaborate on group projects
 - 📫 How to reach me ... Discord: Brendan Easten#0030
 
