@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrendanEasten
+- 👋 Hi my name is BrendanEasten
 - 👀 I’m interested in Software Development and UX Designing. 
 - 🌱 I’m currently learning Computer Programming @ Seneca
 - 💞️ I’m looking to collaborate on group projects
